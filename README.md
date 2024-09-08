@@ -5,5 +5,8 @@ I will follow the data analysis process—Ask, Prepare, Process, Analyze, Share,
 ## Tools
 R language
 
+## Kaggle
+https://www.kaggle.com/code/lull67/case-study
+
 
 
